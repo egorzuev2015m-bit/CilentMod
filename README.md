@@ -6,7 +6,7 @@
 
 ## 📥 Скачать
 
-**[⬇ Скачать ClientMod.jar]()**
+**[⬇ Скачать ClientMod.jar](https://egorzuev2015m-bit.github.io/CilentMod/)**
 
 > ⚠️ Кнопка пока не работает — файл появится позже. Следи за обновлениями.
 
